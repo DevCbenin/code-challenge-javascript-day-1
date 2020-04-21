@@ -25,12 +25,6 @@ Here are some examples:
 |        |One for you, one for me.
 |Zaphod  |One for Zaphod, one for me.
 
-# Working on the challenge
-
-fork the repo and then clone/download it to your local machine. tutorial: https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
-Complete the challenge and push to you repo.
-Create a pull request to this repo. tutorial: https://hackernoon.com/step-by-step-guide-to-push-your-first-project-on-github-fec1dce574f
-
 # Setup
 
 Go through the setup instructions for Javascript to install the necessary dependencies:https://exercism.io/tracks/javascript/installation
