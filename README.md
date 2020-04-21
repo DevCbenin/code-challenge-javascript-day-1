@@ -25,8 +25,10 @@ Here are some examples:
 |        |One for you, one for me.
 |Zaphod  |One for Zaphod, one for me.
 
-# Setup
+# To get started
+click on 'Use Template'
 
+# Setup
 Go through the setup instructions for Javascript to install the necessary dependencies:https://exercism.io/tracks/javascript/installation
 
 # Requirements
